@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="UTF-8"?><ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/381" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="/ern/381" xs:schemaLocation="http://ddex.net/xml/ern/381 http://ddex.net/xml/ern/381/release-notification.xsd">
+    <MessageHeader>
+        <MessageThreadId>1312312312</MessageThreadId>
+        <MessageId>12312312312</MessageId>
+        <MessageSender>
+            <PartyId>adasdasdasdasd</PartyId>
+            <PartyName>
+                <FullName>Sony Music Entertainment</FullName>
+            </PartyName>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>adasdPadasdasdas_TEST</PartyId>
+            <PartyName>
+                <FullName>Raw2edadad</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2019-05-27T08:46:29.586+02:00</MessageCreatedDateTime>
+        <MessageControlType>LiveMessage</MessageControlType>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11904629</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A1</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 9 - Les secrets</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H4M10S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 9 - Les secrets</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 9 - Les secrets</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Augustin Trapenard</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joyce Carol Oates</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Augustin Trapenard, Jean-Michel Mathieu &amp; Joyce Carol Oates</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Augustin Trapenard, Jean-Michel Mathieu &amp; Joyce Carol Oates</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/138b9d19511/20123/59243299.20123.flac?oauth_signature=f2bv2VtUAafw57wKX7C9X21L51g%3D&amp;oauth_consumer_key=riolll&amp;tag=0d05ce3ca17af3410539b237ed0a5949&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>0d05ce3ca17af3410539b237ed0a5949</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11904630</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A2</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 5 - Assise au salon</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H3M11S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 5 - Assise au salon</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 5 - Assise au salon</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Lolilla Siourd</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Molécule</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Arranger</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Milan Kundera</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Lolilla Siourd, Molécule &amp; Milan Kundera</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Lolilla Siourd, Molécule &amp; Milan Kundera</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/7655ad19511/20123/59243301.20123.flac?oauth_signature=U%2Fp3oTol792G05RMaq%2BOTrVnVPM%3D&amp;oauth_consumer_key=riolll&amp;tag=fae897a60eb9123f7abf123a90222358&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>fae897a60eb9123f7abf123a90222358</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11904631</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A3</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 12 - On raconte</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H7M19S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 12 - On raconte</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 12 - On raconte</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Tobie Nathan</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Roland Tchakounte</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Tobie Nathan &amp; Roland Tchakounté</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Anonyme</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Tobie Nathan &amp; Roland Tchakounté</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/d92fad19511/20123/59243303.20123.flac?oauth_signature=XU77AlDODBuX8vTv7uDlQvH6wD0%3D&amp;oauth_consumer_key=riolll&amp;tag=a3af73f128ef6e97c86349c017726076&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>a3af73f128ef6e97c86349c017726076</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11904632</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A4</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 1 - Dans sa première lettre</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H4M28S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 1 - Dans sa première lettre</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 1 - Dans sa première lettre</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Olivia de Lamberterie</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Léo Eugène</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Siri Hustvedt</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Olivia de Lamberterie, Jean-Michel Mathieu, Léo Eugène &amp; Siri Hustvedt</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Olivia de Lamberterie, Jean-Michel Mathieu, Léo Eugène &amp; Siri Hustvedt</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T7</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/3df8bd19511/20123/59243305.20123.flac?oauth_signature=mYMnNQ9FqmGBh4jokO4o6jB7nxk%3D&amp;oauth_consumer_key=riolll&amp;tag=bf912ac008d56545de5caddfcf60fc4a&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>bf912ac008d56545de5caddfcf60fc4a</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T8</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11904633</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A5</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 11 - Amadeo</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H4M33S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 11 - Amadeo</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 11 - Amadeo</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Bernard Lehut</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Molécule</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Arranger</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Italo Calvino</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Bernard Lehut, Molécule &amp; Italo Calvino</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Bernard Lehut, Molécule &amp; Italo Calvino</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T9</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/90d2cd19511/20123/59243307.20123.flac?oauth_signature=ZJVUtijHsjmfADg7BKzHVWQObH0%3D&amp;oauth_consumer_key=riolll&amp;tag=07e20efb213fbfc914d831277defa551&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>07e20efb213fbfc914d831277defa551</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T10</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11904634</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A6</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 2 - Tu voudrais</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H3M3S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 2 - Tu voudrais</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 2 - Tu voudrais</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Samir Bouadi</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Epictète</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Samir Bouadi, Jean-Michel Mathieu &amp; Epictète</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Samir Bouadi, Jean-Michel Mathieu &amp; Epictète</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T11</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/f3accd19511/20123/59243309.20123.flac?oauth_signature=SMDe2P5L%2FDf%2BCbxb8VIHXoxlfy0%3D&amp;oauth_consumer_key=riolll&amp;tag=8d16b16c35f7ef95ff536494eac98398&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>8d16b16c35f7ef95ff536494eac98398</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T12</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11906696</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A7</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 8 - Zadig, avec de grandes richesses</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H4M32S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 8 - Zadig, avec de grandes richesses</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 8 - Zadig, avec de grandes richesses</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Molécule</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Aleqs Notal</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Arranger</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Voltaire</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Molécule, Aleqs Notal, Ali Mesbahi &amp; Voltaire</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Molécule, Aleqs Notal, Ali Mesbahi &amp; Voltaire</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T13</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/5776dd19511/20123/59243311.20123.flac?oauth_signature=SjhQWplCCb%2Bf3D4huegRESduW0k%3D&amp;oauth_consumer_key=riolll&amp;tag=20500d26dafa9ef957faedf647691fef&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>20500d26dafa9ef957faedf647691fef</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T14</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11906695</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A8</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 7 - Un carré bleu</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H3M1S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 7 - Un carré bleu</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 7 - Un carré bleu</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Lola Nicolle</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Lola Nicolle &amp; Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Lola Nicolle &amp; Jean-Michel Mathieu</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T15</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/ba40ed19511/20123/59243313.20123.flac?oauth_signature=Nsv8V4uhBGfgZdY6ho%2FBoZwrcFg%3D&amp;oauth_consumer_key=riolll&amp;tag=9acbbc52d11f656d5d11ca3f10f1b91c&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>9acbbc52d11f656d5d11ca3f10f1b91c</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T16</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11906698</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A9</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 3 - Lorsqu'il est entré</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H9M18S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 3 - Lorsqu'il est entré</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 3 - Lorsqu'il est entré</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Pascale Robert-Diard</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Léo Eugène</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Stéphane Durand-Souffland</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Pascale Robert-Diard, Léo Eugène &amp; Stéphane Durand-Souffland</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Pascale Robert-Diard, Léo Eugène &amp; Stéphane Durand-Souffland</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T17</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/1e1aed19511/20123/59243315.20123.flac?oauth_signature=hkbxpNNWsoCmgir%2F%2FvmoVIxze%2BU%3D&amp;oauth_consumer_key=riolll&amp;tag=33f002f2465409ccf6eaaa8ae3b84170&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>33f002f2465409ccf6eaaa8ae3b84170</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T18</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11906699</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A10</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 6 - J'étais jeune</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H4M17S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 6 - J'étais jeune</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 6 - J'étais jeune</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Laurent Delahousse</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Charles Bukowski</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Laurent Delahousse, Jean-Michel Mathieu &amp; Charles Bukowski</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Laurent Delahousse, Jean-Michel Mathieu &amp; Charles Bukowski</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T19</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/71f3fd19511/20123/59243317.20123.flac?oauth_signature=QdeU112DsvHub%2FT20y52cF0DLl0%3D&amp;oauth_consumer_key=riolll&amp;tag=b84d4c6f53885c903d890c89f93bcd31&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>b84d4c6f53885c903d890c89f93bcd31</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T20</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11906694</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A11</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 4 - Cher Cus</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H1M31S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 4 - Cher Cus</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 4 - Cher Cus</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Samir Bouadi</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Lionel Froissart</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Samir Bouadi, Jean-Michel Mathieu &amp; Lionel Froissart</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="DPID:PADPIDA2007040502I" UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Samir Bouadi, Jean-Michel Mathieu &amp; Lionel Froissart</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T21</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/d4cdfd19511/20123/59243319.20123.flac?oauth_signature=UZMG8gIrYvF%2BAIooZtxBEr5A6vE%3D&amp;oauth_consumer_key=riolll&amp;tag=e7373fa31f5e0c41d2075af8b6751e8e&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>e7373fa31f5e0c41d2075af8b6751e8e</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T22</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+            <SoundRecordingId>
+                <ISRC>FR9W11906697</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A12</ResourceReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 10 - C'était bien une Vénus</TitleText>
+            </ReferenceTitle>
+            <LanguageOfPerformance>fr</LanguageOfPerformance>
+            <Duration>PT0H3M40S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 10 - C'était bien une Vénus</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 10 - C'était bien une Vénus</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Producer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Arranger</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Prosper Mérimée</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses feat. Audrey Siourd, Ali Mesbahi &amp; Prosper Mérimée</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>AssociatedPerformer</ResourceContributorRole>
+                </ResourceContributor>
+                <DisplayArtistName>Les liseuses feat. Audrey Siourd, Ali Mesbahi &amp; Prosper Mérimée</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <PLine>
+                    <Year>2019</Year>
+                    <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T23</TechnicalResourceDetailsReference>
+                    <AudioCodecType>FLAC</AudioCodecType>
+                    <NumberOfChannels>2</NumberOfChannels>
+                    <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+                    <BitsPerSample>16</BitsPerSample>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/38970e19511/20123/59243321.20123.flac?oauth_signature=PrAijZAoEvyvWRYkBq6WYf9RgzY%3D&amp;oauth_consumer_key=riolll&amp;tag=dc7db16916e83f2a6c1a7faee0faaa88&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>dc7db16916e83f2a6c1a7faee0faaa88</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalSoundRecordingDetails>
+                <TechnicalSoundRecordingDetails>
+                    <TechnicalResourceDetailsReference>T24</TechnicalResourceDetailsReference>
+                    <IsPreview>true</IsPreview>
+                    <PreviewDetails>
+                        <StartPoint>48</StartPoint>
+                        <EndPoint>78</EndPoint>
+                        <Duration>PT0H0M30S</Duration>
+                        <ExpressionType>Informative</ExpressionType>
+                    </PreviewDetails>
+                </TechnicalSoundRecordingDetails>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Image>
+            <ImageType>FrontCoverImage</ImageType>
+            <ImageId>
+                <ProprietaryId Namespace="DPID:PADPIDA2007040502I">G0100041017971</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A13</ResourceReference>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T25</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight>1400</ImageHeight>
+                    <ImageWidth>1400</ImageWidth>
+                    <ImageResolution>300</ImageResolution>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <URL>https://mgsrv-aws.smecde.com/rd/0b4ba379511/20126/59238952.20126.jpg?oauth_signature=mbXgmk9bsXZcxROUI1nfCTjpxqs%3D&amp;oauth_consumer_key=riolll&amp;tag=fb56efc3e40437ca50a79318135500aa&amp;oauth_timestamp=1564123595</URL>
+                        <HashSum>
+                            <HashSum>fb56efc3e40437ca50a79318135500aa</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release IsMainRelease="true">
+            <ReleaseId>
+                <GRid>A10301A00041017971</GRid>
+                <ICPN>886447755174</ICPN>
+                <CatalogNumber Namespace="DPID:PADPIDA2007040502I">G0100041017971</CatalogNumber>
+            </ReleaseId>
+            <ReleaseReference>R0</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Les liseuses</TitleText>
+                <SubTitle>Lectures musicales</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A11</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A12</ReleaseResourceReference>
+                <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A13</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>Album</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Les liseuses</TitleText>
+                    <SubTitle>Lectures musicales</SubTitle>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Les liseuses (Lectures musicales)</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroup>
+                        <Title TitleType="GroupingTitle">
+                            <TitleText>Disc 1</TitleText>
+                        </Title>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>3</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>4</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>5</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>6</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>7</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>8</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>9</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>10</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>11</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A11</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>12</SequenceNumber>
+                            <ResourceType>SoundRecording</ResourceType>
+                            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A12</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>13</SequenceNumber>
+                        <ResourceType>Image</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A13</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H53M3S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+            <GlobalOriginalReleaseDate>2019-06-14</GlobalOriginalReleaseDate>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E00090372386</GRid>
+                <ISRC>FR9W11904629</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R1</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 9 - Les secrets</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Augustin Trapenard, Jean-Michel Mathieu &amp; Joyce Carol Oates</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 9 - Les secrets</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 9 - Les secrets</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Augustin Trapenard</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Joyce Carol Oates</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H4M10S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E00090372394</GRid>
+                <ISRC>FR9W11904630</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R2</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 5 - Assise au salon</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Lolilla Siourd, Molécule &amp; Milan Kundera</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 5 - Assise au salon</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 5 - Assise au salon</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Lolilla Siourd</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Molécule</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Arranger</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Milan Kundera</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H3M11S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E0009037240I</GRid>
+                <ISRC>FR9W11904631</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R3</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 12 - On raconte</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Tobie Nathan &amp; Roland Tchakounté</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 12 - On raconte</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 12 - On raconte</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Tobie Nathan</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Roland Tchakounte</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H7M19S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E0009037241G</GRid>
+                <ISRC>FR9W11904632</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R4</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 1 - Dans sa première lettre</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Olivia de Lamberterie, Jean-Michel Mathieu, Léo Eugène &amp; Siri Hustvedt</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 1 - Dans sa première lettre</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 1 - Dans sa première lettre</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Olivia de Lamberterie</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Léo Eugène</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Siri Hustvedt</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H4M28S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E0009037242E</GRid>
+                <ISRC>FR9W11904633</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R5</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 11 - Amadeo</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Bernard Lehut, Molécule &amp; Italo Calvino</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 11 - Amadeo</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 11 - Amadeo</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Bernard Lehut</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Molécule</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Arranger</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Italo Calvino</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H4M33S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E0009037243C</GRid>
+                <ISRC>FR9W11904634</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R6</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 2 - Tu voudrais</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Samir Bouadi, Jean-Michel Mathieu &amp; Epictète</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 2 - Tu voudrais</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 2 - Tu voudrais</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Samir Bouadi</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Epictète</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H3M3S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E0009037244A</GRid>
+                <ISRC>FR9W11906696</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R7</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 8 - Zadig, avec de grandes richesses</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Molécule, Aleqs Notal, Ali Mesbahi &amp; Voltaire</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 8 - Zadig, avec de grandes richesses</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 8 - Zadig, avec de grandes richesses</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Molécule</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Aleqs Notal</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Arranger</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="5">
+                    <PartyName>
+                        <FullName>Voltaire</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H4M32S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E00090372458</GRid>
+                <ISRC>FR9W11906695</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R8</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 7 - Un carré bleu</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Lola Nicolle &amp; Jean-Michel Mathieu</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 7 - Un carré bleu</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 7 - Un carré bleu</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Lola Nicolle</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H3M1S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E00090372466</GRid>
+                <ISRC>FR9W11906698</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R9</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 3 - Lorsqu'il est entré</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Pascale Robert-Diard, Léo Eugène &amp; Stéphane Durand-Souffland</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 3 - Lorsqu'il est entré</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 3 - Lorsqu'il est entré</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Pascale Robert-Diard</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Léo Eugène</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Stéphane Durand-Souffland</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H9M18S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E00090372474</GRid>
+                <ISRC>FR9W11906699</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R10</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 6 - J'étais jeune</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Laurent Delahousse, Jean-Michel Mathieu &amp; Charles Bukowski</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 6 - J'étais jeune</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 6 - J'étais jeune</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Laurent Delahousse</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Charles Bukowski</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H4M17S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E00090372482</GRid>
+                <ISRC>FR9W11906694</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R11</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 4 - Cher Cus</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A11</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Samir Bouadi, Jean-Michel Mathieu &amp; Lionel Froissart</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 4 - Cher Cus</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 4 - Cher Cus</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Samir Bouadi</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Jean-Michel Mathieu</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Lionel Froissart</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A11</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H1M31S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+        <Release>
+            <ReleaseId>
+                <GRid>A10328E0009037249Z</GRid>
+                <ISRC>FR9W11906697</ISRC>
+            </ReleaseId>
+            <ReleaseReference>R12</ReleaseReference>
+            <ReferenceTitle LanguageAndScriptCode="fr">
+                <TitleText>Ligne 10 - C'était bien une Vénus</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A12</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>TrackRelease</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Les liseuses feat. Audrey Siourd, Ali Mesbahi &amp; Prosper Mérimée</DisplayArtistName>
+                <LabelName LabelNameType="DisplayLabelName">Load, un label de Sony Music</LabelName>
+                <Title LanguageAndScriptCode="fr" TitleType="FormalTitle">
+                    <TitleText>Ligne 10 - C'était bien une Vénus</TitleText>
+                </Title>
+                <Title LanguageAndScriptCode="fr" TitleType="DisplayTitle">
+                    <TitleText>Ligne 10 - C'était bien une Vénus</TitleText>
+                </Title>
+                <DisplayArtist SequenceNumber="1">
+                    <PartyName>
+                        <FullName>Les liseuses</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="2">
+                    <PartyName>
+                        <FullName>Audrey Siourd</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Producer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="3">
+                    <PartyName>
+                        <FullName>Ali Mesbahi</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Arranger</ArtistRole>
+                    <ArtistRole>Composer</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist SequenceNumber="4">
+                    <PartyName>
+                        <FullName>Prosper Mérimée</FullName>
+                    </PartyName>
+                    <ArtistRole>AssociatedPerformer</ArtistRole>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                    <ArtistRole>Lyricist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A12</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Variété française</GenreText>
+                </Genre>
+            </ReleaseDetailsByTerritory>
+            <Duration>PT0H3M40S</Duration>
+            <PLine>
+                <Year>2019</Year>
+                <PLineText>(P) 2019 Volume Sonore under exclusive license to Sony Music Entertainment France SAS</PLineText>
+            </PLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R0</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                    </Usage>
+                    <TerritoryCode IdentifierType="ISO">IN</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2019-06-14</StartDate>
+                    </ValidityPeriod>
+                    <ReleaseDisplayStartDate>2019-06-14</ReleaseDisplayStartDate>
+                    <TrackListingPreviewStartDate>2019-06-14</TrackListingPreviewStartDate>
+                    <CoverArtPreviewStartDate>2019-06-14</CoverArtPreviewStartDate>
+                    <ClipPreviewStartDate>2019-06-14</ClipPreviewStartDate>
+                </DealTerms>
+            </Deal>
+        </ReleaseDeal>
+        <ReleaseDeal>
+            <DealReleaseReference>R1</DealReleaseReference>
+            <DealReleaseReference>R10</DealReleaseReference>
+            <DealReleaseReference>R11</DealReleaseReference>
+            <DealReleaseReference>R12</DealReleaseReference>
+            <DealReleaseReference>R2</DealReleaseReference>
+            <DealReleaseReference>R3</DealReleaseReference>
+            <DealReleaseReference>R4</DealReleaseReference>
+            <DealReleaseReference>R5</DealReleaseReference>
+            <DealReleaseReference>R6</DealReleaseReference>
+            <DealReleaseReference>R7</DealReleaseReference>
+            <DealReleaseReference>R8</DealReleaseReference>
+            <DealReleaseReference>R9</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                    </Usage>
+                    <TerritoryCode IdentifierType="ISO">IN</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2019-06-14</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <Usage>
+                        <UseType>NonInteractiveStream</UseType>
+                        <UseType>OnDemandStream</UseType>
+                    </Usage>
+                    <TerritoryCode IdentifierType="ISO">IN</TerritoryCode>
+                    <ValidityPeriod>
+                        <StartDate>2019-06-14</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+        </ReleaseDeal>
+    </DealList>
+</ernm:NewReleaseMessage>
