@@ -16,7 +16,7 @@ ddex = DDEXParser(args)
 ddex.parse_xml()
 ```
 
-Comment json dump line inorder to retun output in dictonary format
+Comment json dump line inorder to return output in dictonary format
 
 ```python
     def parse_xml(self):
