@@ -1,4 +1,4 @@
-# DDEXPythonParser
+# DDEX Python Parser
 DDEX Python Parser Can be use for Parsing DDEX XML FILE.Output is in JSON Format.
 
 it is been tested on:-
